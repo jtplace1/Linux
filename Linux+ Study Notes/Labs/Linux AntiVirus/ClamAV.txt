@@ -1,1 +1,7 @@
 Installing ClamAV
+
+
+
+Debian:
+apt-get update
+agt-get install clamav
