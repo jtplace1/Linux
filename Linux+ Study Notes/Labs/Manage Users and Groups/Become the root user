@@ -1,0 +1,13 @@
+At the command prompt type the following command:
+
+	$ sudo -s
+Enter your password when prompted
+
+Now that you are root the command prompt will change. We indicate this using the “#” symbol.
+
+You are now the super user - be careful!
+
+Ok, exit the root account:
+
+	# exit
+	$
